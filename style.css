@@ -1,0 +1,152 @@
+.nom {
+	font-size: 40px;
+	font-family: 'Kaushan Script', cursive;
+	padding: 2%;
+	position: absolute;
+}
+
+.selection {
+	font-size: 25px;
+	margin-left: 65%;
+	padding: 3%;
+/*	justify-content: space-between;
+*/	width: 40%;
+	margin-bottom: 2%;
+}
+
+label {
+
+	display: block;
+	margin-left: 20%;
+	font-size: 20px;
+	padding-bottom: 5%;
+	font-family: 'Fredoka One', cursive;
+
+}
+
+.titre {
+
+	margin-left: 42%;
+	font-size: 30px;
+	font-family: 'Fredoka One', cursive;
+
+}
+
+.pitch {
+
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 5%;
+}
+.competence {
+	margin-top: 2%;
+	margin-right: auto;
+	margin-left: auto;
+	width: 80%;
+
+}
+.imagecompet {
+
+	display: flex;
+	justify-content: space-between;
+	margin-top: 10%;
+	
+}
+
+.imagecompet2 {
+
+	display: flex;
+	justify-content: space-between;
+	margin-top: 10%;
+}
+.html {
+
+	
+}
+
+.java {
+
+}
+
+.photoshop {
+
+	
+}
+
+.html img {
+
+	height: 65%;
+	width: 65%;
+}
+
+.java img {
+	
+	height: 65%;
+	width: 65%;
+
+}
+
+.photoshop img {
+	
+	height: 65%;
+	width: 65%;
+
+}
+
+.hrcourt {
+
+	width: 80%;
+}
+
+.formation  {
+
+	margin-top: 2%;
+	margin-right: auto;
+	margin-left: auto;
+	width: 80%;
+}
+
+.simplon {
+
+	display: flex;
+	justify-content: space-between;
+	margin-top: 5%;
+
+}
+.simplon img {
+
+	height: 35%;
+	width:35%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.projet {
+
+	margin-top: 2%;
+	margin-right: auto;
+	margin-left: auto;
+	width: 80%;
+
+}
+
+.ogpark img {
+
+	height: 65%;
+	width: 65%;
+	margin-left: 20%;
+	border-radius: 10%;
+}
+
+.IOT img {
+	height: 65%;
+	width: 65%;
+	margin-left: 40%;
+}
+
+.adapti img {
+	height: 65%;
+	width: 40%;
+	margin-left: 50%;
+	border-radius: 10%;
+}
